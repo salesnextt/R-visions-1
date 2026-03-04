@@ -13,7 +13,6 @@ def load_data():
     return df
 
 st.title("🚀 R-Vision 1")
-st.write
 st.markdown("---")
 
 try:
