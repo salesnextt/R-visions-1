@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Ton lien de publication Sheets
-SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcc-V3xEYUl_Mv05vjB_FMbo2mvjrFRTheCIkuQIuAVgcSw2ZcHDgbmupZORUYTNCVVCTG3Zt2SZTR/pub?output=csv"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcc-V3xEYUl_Mv05vjB_FMbo2mvjrFRTheCIkuQIuAVgcSw2ZcHDgbmupZORUYtNCVVCUG3Zt2SZTR/pub?output=csv"
 
 st.set_page_config(page_title="R-Vision 1", page_icon="🎓", layout="centered")
 
