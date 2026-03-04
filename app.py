@@ -13,7 +13,7 @@ def load_data():
     return df
 
 st.title("🚀 R-Vision 1")
-st.write("Maths, Micro & Macro pour la L2")
+st.write
 st.markdown("---")
 
 try:
